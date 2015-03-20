@@ -75,4 +75,4 @@ For more information on how to use git, check out [this interactive tutorial](ht
 2. If you try to push and see "Repository does not exist" this probably means that you cloned from the gSchool repo rather than your fork. Make sure you followed directions under "getting started" (at the top of this Readme) and created a fork. Then run this command to push: `git push https://github.com/<your username>/precourse master`
 
 ## Getting help
-Feel free to contact me directly if you have any questions via instructors@gschool.it.
+Feel free to reach out for help on [your cohort's Slack channel](https://gschool.slack.com/messages/g8_boulder/).
