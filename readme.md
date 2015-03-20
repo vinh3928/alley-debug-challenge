@@ -4,7 +4,7 @@ __Goal: to get you ready to jump into our curriculum on day 1.__
 
 Please read this entire document before getting started.
 
-Before class beings, you are expected to complete and submit the code assignment as described below.
+Before class begins, you are expected to complete and submit the code assignment as described below.
 
 ## Your Assignment
 
@@ -27,7 +27,7 @@ The website should have two pages linked with anchor tags. One page should descr
 
 Example content for page one:
 
-> Hi there! My name is Zelda. I was born into royalty and  spend my nights and weekends battling evil. My closes friend is Link. Together we will rule the world.
+> Hi there! My name is Zelda. I was born into royalty and spend my nights and weekends battling evil. My closest friend is Link. Together we will rule the world.
 
 > Here is a picture of us fighting Gannon. [insert photo]
 
@@ -43,7 +43,7 @@ The site's HTML should include an external, linked stylesheet with custom CSS. T
 Note that the CSS should be linked to from a separate CSS file. For more information on how to do this, refer to [this article on the subject](http://matthewjamestaylor.com/blog/adding-css-to-html-with-link-embed-inline-and-import).
 
 ### Use jQuery
-The site should and use jQuery to change something on the page when a user clicks a button. The button can say or do anything, but it must be handled using jQuery.
+The site should use jQuery to change something on the page when a user clicks a button. The button can say or do anything, but it must be handled using jQuery.
 
 You can learn more [about jQuery online](http://try.jquery.com/).
 
