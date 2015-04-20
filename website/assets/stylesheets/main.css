@@ -1,0 +1,100 @@
+h1 {
+  color: purple;
+  font-size: 20px
+}
+
+li {
+  color: green;
+  font-size: 18px;
+}
+
+p {
+  color: green;
+  font-size: 18px;
+}
+h3 {
+  color: pink;
+}
+#hobbies {
+  color: green;
+}
+h2{
+  color: purple;
+}
+#email{
+  font-size: 20px;
+}
+#alleyfitwebsite{
+  font-size: 20px;
+  color: blue;
+}
+
+
+section {
+  float: left;
+  width: 60%;
+}
+aside {
+  float: right;
+  width: 40%;
+}
+#slideshow {
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+  color: purple;
+  background: green;
+  border-radius: 20%;
+}
+body {
+  text-align: center;
+  background-image: url("assets/images/background.jpg");
+  background-color: black;
+
+}
+a {
+  text-align: center
+  font-size: 30px
+}
+li {
+  text-align: left;
+}
+.linktopage2{
+  width: 280px;
+  height:1850px;
+  font-size: 18px;
+  color: blue;
+  background: white;
+  border: 10px solid #663399
+}
+
+#photoShowContainer{
+ border: 5px solid #fff;
+ margin: 30px auto 0px auto;
+ position: relative;
+ width: 400px;
+
+ -moz-box-shadow: 0px 0px 25px black;
+ -webkit-box-shadow: 0px 0px 25px black;
+ box-shadow: 0px 0px 25px black;
+}
+
+#photoShowWrap{
+ height: 300px;
+ overflow: hidden;
+  position: relative;
+ width: 100%;
+ z-index: 1;
+}
+
+#photoShow{
+ height: 300px;
+    position: relative;
+ width: 2000px;
+}
+
+#photoShow img{
+ float: left;
+ height: 300px;
+ width: 400px;
+}
