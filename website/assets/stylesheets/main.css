@@ -6,6 +6,7 @@ h1 {
 li {
   color: green;
   font-size: 18px;
+  list-style: none;
 }
 
 p {
@@ -49,7 +50,6 @@ aside {
 body {
   text-align: center;
   background-image: url("assets/images/background.jpg");
-  background-color: black;
 
 }
 a {
@@ -97,4 +97,35 @@ li {
  float: left;
  height: 300px;
  width: 400px;
+}
+header {
+  margin:0; padding: 0;
+}
+#header {
+  background-color: black;
+  height: 100px
+  width: 100%;
+}
+.container {
+  width: 960px;
+  height: auto;
+  margin: 0 auto;
+}
+
+#navarea {
+  width: 730px;
+  height: 100px;
+  float: right;
+}
+#nav {
+  list-style: none;
+}
+#nav li {
+  float: left;
+  margin: 30px;
+  color: black;
+  padding: 8px;
+  border: 1px solid purple;
+  border radius: 5px;
+
 }
